@@ -106,7 +106,7 @@ Here are some ideas to get you started:
             구글 이메일 접근 동의, 이메일 등록, 서비스 구독 취소, 키워드 등록 및 수정, 삭제
 </details>
 
-📝 Github : [https://github.com/wwinterr10/Book_Library](https://github.com/wwinterr10/SpringBoot-Book/tree/main)
+📝 Github : [https://github.com/kimss373/spring-maeil-everyday](https://github.com/kimss373/spring-maeil-everyday)
 
 ---
 
@@ -116,16 +116,15 @@ Here are some ideas to get you started:
     웹 캠으로 수어를 인식하고 텍스트로 출력하는 사이트
   </summary>
 
-    - 프로젝트 기간 : 2024년 7월 23일 ~ 2024년 8월 4일
+    - 프로젝트 기간 : 2024년 7월 15일 ~ 2024년 7월 26일
 
     - 프로젝트 인원 : 개인
 
-    - 사용 언어 및 개발 환경 : SpringBoot, HTML, Eclipse, Python, Pycharm
+    - 사용 언어 및 개발 환경 : Spring Boot 3.3.2, Java 17, python, LSTM, YOLO, mediapipe, thymeleaf, pycharm, Eclipse, HTML, JavaScript
 
     - 세부 기능 : 웹 페이지에서 카메라로 수어를 인식하면 YOLO 모델로 학습한 데이터를 기반으로 텍스트를 화면에 출력
 </details>
-🎥 시연 영상 Youtube : https://youtube.com
+🎥 시연 영상 Youtube : #
 
-📝 Github : [https://github.com/wwinterr10/Sign_Language_Translator](https://github.com/wwinterr10/SignLanguageTranslator/tree/main)
-
+📝 Github : #
 ---
