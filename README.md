@@ -49,7 +49,7 @@ Here are some ideas to get you started:
 
 ### 🐶 모의 주식 투자 서비스
 
-  ![화면 캡처 2024-08-29 215748](https://github.com/user-attachments/assets/97a936c1-bd6f-4dc8-9452-b64c659afe02)
+  ![모의 주식 투자 사이트 스샷](https://github.com/user-attachments/assets/96fcfa64-c198-43c7-916b-a232ebc0b64e)
 
   
 <details>
