@@ -78,6 +78,7 @@ Here are some ideas to get you started:
 ---
 
 ### 📚 Maeil Everyday
+![image](https://github.com/user-attachments/assets/cd7dccfa-517c-4630-bd24-72bad830ddb4)
 <details>
   <summary>
     Amazon Web Service 기반 웹 일정관리 시스템 개발
