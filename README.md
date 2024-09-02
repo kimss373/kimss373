@@ -111,6 +111,8 @@ Here are some ideas to get you started:
 ---
 
 ### 🧏‍♀️ Sign Language Translator
+![수어인식 스샷 김성수](https://github.com/user-attachments/assets/babe3e96-a882-4022-a492-7eb024e62049)
+
 <details>
   <summary>
     웹 캠으로 수어를 인식하고 텍스트로 출력하는 사이트
