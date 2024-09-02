@@ -18,6 +18,7 @@ Here are some ideas to get you started:
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=김성수입니다&fontSize=50&animation=twinkling)
 
 <div align="center">
+  
 #### 💡 Languages & Skills💡
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -38,7 +39,7 @@ Here are some ideas to get you started:
 ![Android Studio](https://img.shields.io/badge/android%20studio-346ac1?style=for-the-badge&logo=android%20studio&logoColor=white)
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=kimss373&show_icons=true&theme=material-palenight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kimss373&layout=compact&theme=material-palenight&hide=jupyternotebook,glsl,typescript,astro,makefile,rust,css,scss)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kimss373&layout=compact&theme=material-palenight&hide=html,glsl,typescript,astro,makefile,rust,css,scss)
 ---
 
 #### 🏆 Baekjoon 🏆
