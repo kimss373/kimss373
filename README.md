@@ -37,12 +37,12 @@ Here are some ideas to get you started:
 ![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)
 ![Android Studio](https://img.shields.io/badge/android%20studio-346ac1?style=for-the-badge&logo=android%20studio&logoColor=white)
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=wwinterr10&show_icons=true&theme=material-palenight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wwinterr10&layout=compact&theme=material-palenight&hide=jupyternotebook,glsl,typescript,astro,makefile,rust,css,scss)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=kimss373&show_icons=true&theme=material-palenight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kimss373&layout=compact&theme=material-palenight&hide=jupyternotebook,glsl,typescript,astro,makefile,rust,css,scss)
 ---
 
 #### 🏆 Baekjoon 🏆
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=kimss373)](https://solved.ac/kimss373)
 </div>
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=9135FFEB&width=435&lines=%F0%9F%8E%A8Portfolio%F0%9F%8E%A8)](https://git.io/typing-svg)
+
