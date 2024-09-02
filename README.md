@@ -115,7 +115,7 @@ Here are some ideas to get you started:
 
 <details>
   <summary>
-    웹 캠으로 수어를 인식하고 텍스트로 출력하는 사이트
+    웹 캠으로 수어를 인식하고 텍스트로 출력
   </summary>
 
     - 프로젝트 기간 : 2024년 7월 15일 ~ 2024년 7월 26일
