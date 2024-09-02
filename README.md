@@ -73,7 +73,7 @@ Here are some ideas to get you started:
 </details>
 🎥 시연 영상 Youtube : [https://youtu.be/sLIfuF6pN5U?si=fctliTyjKQaQ9nA9](https://www.youtube.com/watch?v=aPXDmUtus9E)
 
-📝 Github : #
+📝 Github : https://github.com/kimss373/Stock-System-WEB
 
 ---
 
@@ -126,7 +126,7 @@ Here are some ideas to get you started:
 
     - 세부 기능 : 웹 페이지에서 카메라로 수어를 인식하면 YOLO 모델로 학습한 데이터를 기반으로 텍스트를 화면에 출력
 </details>
-🎥 시연 영상 Youtube : #
+🎥 시연 영상 Youtube : https://youtu.be/x6oLqWnQbMM
 
-📝 Github : #
+📝 Github : https://github.com/kimss373/sign_language_detect
 ---
