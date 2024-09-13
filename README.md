@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=안녕하십니까 웹 개발자가 되기 위해 열정과 성실성을 갖고 노력중인 김성수 입니다.&fontSize=50&animation=twinkling)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=안녕하십니까 개발자가 되기 위해 노력중인 김성수 입니다.&fontSize=50&animation=twinkling)
 
 <div align="center">
   
