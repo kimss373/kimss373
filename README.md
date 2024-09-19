@@ -38,7 +38,6 @@ Here are some ideas to get you started:
 ![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)
 ![Android Studio](https://img.shields.io/badge/android%20studio-346ac1?style=for-the-badge&logo=android%20studio&logoColor=white)
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=kimss373&show_icons=true&theme=material-palenight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kimss373&layout=compact&theme=material-palenight&hide=html,glsl,typescript,astro,makefile,rust,css,scss)
 ---
 
