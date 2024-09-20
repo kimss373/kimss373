@@ -60,7 +60,7 @@ Here are some ideas to get you started:
 
     - 프로젝트 인원 : 개인
 
-    - 사용 언어 및 개발 환경 : JAVA, JSP, Servlet, MyBatis, HTML, JavaScript, JQuery, Eclipse, Tomcat
+    - 사용 언어 및 개발 환경 : JAVA, OracleDB, JSP, Servlet, MyBatis, HTML, JavaScript, JQuery, AJAX, Eclipse, Tomcat
 
     - 세부 기능 : 회원 별 모의 계좌 생성 및 관리
                   주식 api를 이용해 이전날까지의 데이터를 database에 저장
@@ -87,17 +87,13 @@ Here are some ideas to get you started:
 
     - 프로젝트 기간 : 2024년 6월 19일 ~ 2024년 7월 3일
 
-    - 프로젝트 인원 : 개인
+    - 프로젝트 인원 : 3인
 
-    - 사용 언어 및 개발 환경 : JAVA, JSP, Servlet, MyBatis, HTML, JavaScript, JQuery, Eclipse, Tomcat
+    - 사용 언어 및 개발 환경 : Redis, OracleDB, JAVA, JSP, Servlet, MyBatis, HTML, JavaScript, JQuery, AJAX, Eclipse, Tomcat
 
-    - 세부 기능 : 회원 별 모의 계좌 생성 및 관리
-                  주식 api를 이용해 이전날까지의 데이터를 database에 저장
-                  실시간 변동되는 데이터를 사용하는데의 한계, 이전날까지의 데이터를 이용해 2초마다 상한, 하한가 사이로 주가가 변동되도록 구현
-                  주식 검색, 드랍 다운 자동완성
-                  주가 변동 그래프 제공
-                  가격 변동이 큰 주식의 정보 제공
-                  주식 매도, 매수
+    - 세부 기능 : Redis를 이용해 통합로그인 유지 구현
+                 DBLink를 이용한 데이터의 공유
+                 통장 개설, 송금, 출금 등
 </details>
 🎥 시연 영상 Youtube : https://youtu.be/_eNSTyzkmG8?si=NT3WEoTL43QnzVoD
 
@@ -137,6 +133,27 @@ Here are some ideas to get you started:
 
 📝 Github : [https://github.com/kimss373/spring-maeil-everyday](https://github.com/kimss373/spring-maeil-everyday)
 
+---
+
+### 🧏‍♀️ Sign Language Translator
+![수어인식 스샷 김성수](https://github.com/user-attachments/assets/babe3e96-a882-4022-a492-7eb024e62049)
+
+<details>
+  <summary>
+    웹 캠으로 수어를 인식하고 텍스트로 출력
+  </summary>
+
+    - 프로젝트 기간 : 2024년 7월 15일 ~ 2024년 7월 26일
+
+    - 프로젝트 인원 : 개인
+
+    - 사용 언어 및 개발 환경 : Spring Boot 3.3.2, Java 17, python, LSTM, YOLO, mediapipe, thymeleaf, pycharm, Eclipse, HTML, JavaScript
+
+    - 세부 기능 : 웹 페이지에서 카메라로 수어를 인식하면 YOLO 모델로 학습한 데이터를 기반으로 텍스트를 화면에 출력
+</details>
+🎥 시연 영상 Youtube : https://youtu.be/x6oLqWnQbMM
+
+📝 Github : https://github.com/kimss373/sign_language_detect
 ---
 
 ### 🧏‍♀️ Sign Language Translator
