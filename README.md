@@ -82,7 +82,7 @@ Here are some ideas to get you started:
 
 <details>
   <summary>
-    KOM Finance 통합페이지
+    KOM Finance 통합페이지 (주식, 은행, 카드 웹 사이트 통합)
   </summary>
 
     - 프로젝트 기간 : 2024년 6월 19일 ~ 2024년 7월 3일
@@ -99,7 +99,7 @@ Here are some ideas to get you started:
                   가격 변동이 큰 주식의 정보 제공
                   주식 매도, 매수
 </details>
-🎥 시연 영상 Youtube : [https://youtu.be/sLIfuF6pN5U?si=fctliTyjKQaQ9nA9](https://www.youtube.com/watch?v=aPXDmUtus9E)
+🎥 시연 영상 Youtube : https://youtu.be/_eNSTyzkmG8?si=NT3WEoTL43QnzVoD
 
 📝 Github : https://github.com/kimss373/Stock-System-WEB
 
