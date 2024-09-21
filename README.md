@@ -184,7 +184,7 @@ Here are some ideas to get you started:
 
 🎥 시연 영상 Youtube : https://youtu.be/yG_RmyhHhfQ
 
-📝 Github : https://github.com/kimss373/sign_language_detect
+📝 Github : https://github.com/kimss373/java_email_system
 
 ---
 
