@@ -103,7 +103,7 @@ Here are some ideas to get you started:
 ---
 
 ### 📚 Maeil Everyday
-<img src="https://github.com/user-attachments/assets/cd7dccfa-517c-4630-bd24-72bad830ddb4" width="100%" height="500"/>
+<img src="https://github.com/user-attachments/assets/cd7dccfa-517c-4630-bd24-72bad830ddb4" width="100%" height="400px"/>
 
 <summary>
   Amazon Web Service 기반 웹 일정관리 시스템 개발
@@ -160,7 +160,7 @@ Here are some ideas to get you started:
 ---
 
 ### 🧏‍♀️ Email System JAVA
-<img src="https://github.com/user-attachments/assets/d47193cd-b72f-44fd-80a1-36352caa6a9d" width="100%" height="500"/>
+<img src="https://github.com/user-attachments/assets/d47193cd-b72f-44fd-80a1-36352caa6a9d" width="100%" height="400px"/>
 
 
 <summary>
@@ -175,11 +175,11 @@ Here are some ideas to get you started:
 
 ### 기능설계도
 
-<img src="https://github.com/user-attachments/assets/8a7a09ef-830e-4102-b2f5-8706c159f85e" width="100%" height="500"/>
+<img src="https://github.com/user-attachments/assets/8a7a09ef-830e-4102-b2f5-8706c159f85e" width="100%" height="400px"/>
 
 ### ERD
 
-<img src="https://github.com/user-attachments/assets/0d290fa2-c8fb-4cb4-b0d1-c6ff9fced48c" width="100%" height="500"/>
+<img src="https://github.com/user-attachments/assets/0d290fa2-c8fb-4cb4-b0d1-c6ff9fced48c" width="100%" height="400px"/>
 
 
 🎥 시연 영상 Youtube : https://youtu.be/yG_RmyhHhfQ
