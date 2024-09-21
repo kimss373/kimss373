@@ -182,7 +182,7 @@ Here are some ideas to get you started:
 <img src="https://github.com/user-attachments/assets/0d290fa2-c8fb-4cb4-b0d1-c6ff9fced48c" width="100%" height="500"/>
 
 
-🎥 시연 영상 Youtube : https://youtu.be/x6oLqWnQbMM
+🎥 시연 영상 Youtube : https://youtu.be/yG_RmyhHhfQ
 
 📝 Github : https://github.com/kimss373/sign_language_detect
 
