@@ -187,3 +187,33 @@ Here are some ideas to get you started:
 📝 Github : https://github.com/kimss373/sign_language_detect
 
 ---
+
+### 🧏‍♀️ 지하철 이용량 분석 및 시각화 프로젝트
+
+<summary>
+  Python, pandas를 활용하여 지하철 이용량을 분석하고,
+  streamlit, seaborn, matplotlib, folium을 활용하여 웹 페이지에 시각화 했습니다.
+</summary>
+
+  - 프로젝트 기간 : 2024년 1월 18일 ~ 2024년 2월 25일
+
+  - 프로젝트 인원 : 개인
+
+  - 사용 언어 및 개발 환경 : Python, streamlit, pandas, seaborn, matplotlib, folium 
+
+### 지도 시각화
+
+<img src="https://github.com/user-attachments/assets/4970692f-66e3-41aa-99ef-cc8d4e929c60" width="100%" height="400px"/>
+
+### 시간대별 그래프 시각화
+
+<img src="https://github.com/user-attachments/assets/329f0746-6848-4d55-9b4a-e38106b00232" width="100%" height="400px"/>
+
+### 시간대별 그래프 시각화
+
+<img src="https://github.com/user-attachments/assets/f425f362-6aa5-4883-a3e2-9ba61041e17d" width="100%" height="400px"/>
+
+
+📝 Github : https://github.com/kimss373/Subway_analysis_project
+
+---
